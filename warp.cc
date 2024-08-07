@@ -1,3 +1,4 @@
+script_key="";
 getgenv().Warp = {
     ['Global'] = {
         ['Dead'] = true; -- Both lp and target
